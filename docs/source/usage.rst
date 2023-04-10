@@ -8,13 +8,15 @@ Installation
 
 Protal is written in C++ and can be installed from multiple sources.
 
-### bioconda ###
+bioconda
+^^^^^^^^
 
 .. code-block:: console
 
    (conda_env) $ conda install protal
 
-### Prebuilt binaries ###
+Prebuilt binaries
+^^^^^^^^^^^^^^^^^
 
 Go to github.
 
@@ -22,7 +24,8 @@ Go to github.
 
    $ wget 
 
-### Build from sources ###
+Build from sources
+^^^^^^^^^^^^^^^^^^
 
 Go to github.
 
