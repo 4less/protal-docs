@@ -6,11 +6,29 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+Protal is written in C++ and can be installed from multiple sources.
+
+### bioconda ###
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (conda_env) $ conda install protal
+
+### Prebuilt binaries ###
+
+Go to github.
+
+.. code-block:: console
+
+   $ wget 
+
+### Build from sources ###
+
+Go to github.
+
+.. code-block:: console
+
+   $ wget 
 
 Creating recipes
 ----------------
