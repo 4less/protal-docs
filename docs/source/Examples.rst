@@ -1,4 +1,7 @@
-Examples
---------
+EXAMPLES
+===
 
-This is for examples
+.. autosummary::
+   :toctree: generated
+
+   protal
