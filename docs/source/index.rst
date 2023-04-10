@@ -17,4 +17,4 @@ Contents
 
    usage
    api
-   examples
+   Examples
