@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the Documentation of protal
+======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**protal** is a bioinformatics tool for profiling metagenomic communities. With paired-end short reads from 1+ samples as input, protal creates species level profiles for each sample and infers strain-level similarities and MSAs for each species that is shared between at least 2 samples.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -20,3 +17,4 @@ Contents
 
    usage
    api
+   examples
